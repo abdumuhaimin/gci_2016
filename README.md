@@ -1,2 +1,3 @@
 # gci_2016
-Sugar Labs
+Hello Sugar Labs
+I'm Muhaimin. Feel free to review this repo
